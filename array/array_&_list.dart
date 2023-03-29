@@ -1,0 +1,3 @@
+/// In Dart, an array is a fixed-size collection of elements of the same type. Once an array is created, its size cannot be changed, and it can only contain elements of the specified type. Arrays can be created using the "List" constructor with a fixed length, or using the "List.filled" constructor to create an array with a fixed length and pre-filled with a default value.
+
+/// On the other hand, a list in Dart is a dynamic collection of elements that can be resized as needed. Lists can contain elements of different types, and they can be modified by adding, removing, or updating elements. Lists can be created using the "List" constructor without a fixed length, or using the "List.from" constructor to create a list from another iterable object.
